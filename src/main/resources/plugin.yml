@@ -1,0 +1,7 @@
+name: Selector
+main: com.sgerlyn.gamemodeselector.GamemodeSelector
+version: 1.0
+description: Creates an inventory for switching gamemodes.
+commands:
+    switch:
+        description: Opens the gamemode selector.
