@@ -1,5 +1,5 @@
 name: Selector
-main: com.sgerlyn.gamemodeselector.GamemodeSelector
+main: net.hchayburn.gamemodeselector.GamemodeSelector
 version: 1.0
 description: Creates an inventory for switching gamemodes.
 commands:

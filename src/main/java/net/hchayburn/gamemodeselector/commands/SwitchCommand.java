@@ -1,4 +1,4 @@
-package com.sgerlyn.gamemodeselector.commands;
+package net.hchayburn.gamemodeselector.commands;
 
 import org.bukkit.Bukkit;
 import org.bukkit.ChatColor;

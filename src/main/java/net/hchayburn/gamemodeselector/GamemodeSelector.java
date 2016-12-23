@@ -1,7 +1,7 @@
-package com.sgerlyn.gamemodeselector;
+package net.hchayburn.gamemodeselector;
 
-import com.sgerlyn.gamemodeselector.commands.SwitchCommand;
-import com.sgerlyn.gamemodeselector.listeners.GamemodeSwitch;
+import net.hchayburn.gamemodeselector.commands.SwitchCommand;
+import net.hchayburn.gamemodeselector.listeners.GamemodeSwitch;
 import org.bukkit.plugin.java.JavaPlugin;
 
 public class GamemodeSelector extends JavaPlugin {
